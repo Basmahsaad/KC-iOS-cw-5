@@ -19,8 +19,6 @@ struct ContentView: View {
                     .scaledToFit()
                     .frame(width: 100, height: 100)
                 Text(i)
-                
-                
             }
         }
             
@@ -48,15 +46,9 @@ struct ContentView: View {
                         .cornerRadius(10)
                 }
 
-                
-                
             }.padding()
             
     }
-        
-        
-        
-        
         
        }
                  
